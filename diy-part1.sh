@@ -17,4 +17,4 @@
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 sed -i '$a src-git helloword https://github.com/fw876/helloworld.git' feeds.conf.default
 #add jd_script package
-git clone  https://github.com/ITdesk01/jd_openwrt_script.git package/jd_openwrt_script
+#git clone  https://github.com/ITdesk01/jd_openwrt_script.git package/jd_openwrt_script
